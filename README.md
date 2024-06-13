@@ -1,1 +1,1 @@
-### These are papers Deocracy Institute has published.
+### This is a repository for papers Deocracy Institute has published.
